@@ -1,5 +1,5 @@
 minio:
-  endpoint: http://192.168.56.101:9001/
-  access-key: NhQlOFYcyXiQm40DpW56
-  secret-key: O1q6YRp79cTeNrtHT8yHXgcFWcOTDJNpKpRsYMzp
+  endpoint: http://vm102.tail5e05b.ts.net:9001/
+  access-key: K98bzeNcqRhS8b6SsB86
+  secret-key: znJJKfcfJdRns27CSHBiTANhhpgoxbDLu9q0RkIm
   bucket-name: sz-boot-parent-local
